@@ -1,0 +1,6 @@
+framework module Pods_ThrowCatch {
+  umbrella header "Pods-ThrowCatch-umbrella.h"
+
+  export *
+  module * { export * }
+}
